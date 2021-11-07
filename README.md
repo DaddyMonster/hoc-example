@@ -1,3 +1,5 @@
+# React 공부방 단톡에 HOC 관련 질문에 대답하기 위해 생성됨
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
